@@ -18,7 +18,7 @@ make library
 ```
 
 This will compile the library, creating a `vm.a` at `build/`. You may then statically link it to your project as you wish.
-For the example provided (windows. Remvoe the .exe to build on linux):
+For the example provided (windows. Remove the .exe to build on linux):
 
 ```
 g++ -std=c++11 -O3 sample/main.cpp -o bin/sample.exe build/vm.a
