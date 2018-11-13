@@ -6,7 +6,7 @@ to perform diferent operation on diferent kind of operands.
 - Quite fast
 - Built as a library. (automatically builds itself as a static library)
 - Easy API with examples on sample/main.cpp
-- Youtube video stream of how I built it (![Click here](https://www.youtube.com/watch?v=hWkkY2M3lHQ))
+- Youtube video stream of how I built it ([Click here](https://www.youtube.com/watch?v=hWkkY2M3lHQ))
 - Pure C++
 
 # How to build
